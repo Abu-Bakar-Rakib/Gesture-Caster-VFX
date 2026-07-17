@@ -33,8 +33,8 @@ Perfect for:
 * 🤖 Computer Vision Demonstrations
 * 🧪 Creative Coding Projects
 * 🎨 Cyberpunk Visual Art
-
----
+<img width="1179" height="746" alt="image" src="https://github.com/user-attachments/assets/488139b5-3d64-4259-bc5e-80bae1ff78f2" />
+<img width="1122" height="739" alt="image" src="https://github.com/user-attachments/assets/dbda7bd7-8e0b-47b8-a885-2781614b9f5a" />
 
 # 🎬 Features
 
